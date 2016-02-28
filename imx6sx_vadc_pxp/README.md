@@ -20,7 +20,7 @@ make
 
 Options parameters
 
--t Time in seconds to run
--h flip image horizontally
--v flip image vertically
--i invert colors
+\-t Time in seconds to run
+\-h flip image horizontally
+\-v flip image vertically
+\-i invert colors
